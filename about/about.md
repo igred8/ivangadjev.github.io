@@ -1,3 +1,8 @@
+---
+layout: post
+title: "about page"
+---
+
 # about
 This is a github webpage. It is maintained by igred8. 
 
